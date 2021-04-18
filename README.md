@@ -2,6 +2,8 @@
 
 Oplanding is a template bundles with bootstrap5,webpack and handlebarjs.
 
+![oplanding](https://github.com/odipixel/op-landing/blob/main/src/assets/images/oplanding.PNG)
+
 ## Installation
 
 Use the node package manager [npm](https://www.npmjs.com/) to install oplanding dependancies.
