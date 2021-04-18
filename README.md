@@ -1,6 +1,6 @@
 # Oplanding
 
-Oplanding is a template bundles with bootstrap5,webpack,handlebarjs.
+Oplanding is a template bundles with bootstrap5,webpack and handlebarjs.
 
 ## Installation
 
