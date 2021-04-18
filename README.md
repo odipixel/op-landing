@@ -1,4 +1,3 @@
-# op-landing
 # Oplanding
 
 Oplanding is a template bundles with bootstrap5,webpack,handlebarjs.
